@@ -1,0 +1,12 @@
+https://lean-lang.org/theorem_proving_in_lean4/Introduction
+https://lean-lang.org/theorem_proving_in_lean4/Dependent-Type-Theory
+https://lean-lang.org/theorem_proving_in_lean4/Propositions-and-Proofs
+https://lean-lang.org/theorem_proving_in_lean4/Quantifiers-and-Equality
+https://lean-lang.org/theorem_proving_in_lean4/Tactics
+https://lean-lang.org/theorem_proving_in_lean4/Interacting-with-Lean
+https://lean-lang.org/theorem_proving_in_lean4/Inductive-Types
+https://lean-lang.org/theorem_proving_in_lean4/Induction-and-Recursion
+https://lean-lang.org/theorem_proving_in_lean4/Structures-and-Records
+https://lean-lang.org/theorem_proving_in_lean4/Type-Classes
+https://lean-lang.org/theorem_proving_in_lean4/The-Conversion-Tactic-Mode
+https://lean-lang.org/theorem_proving_in_lean4/Axioms-and-Computation
