@@ -1,0 +1,11 @@
+{
+  "language": "korean",
+  "permissions": {
+    "allow": [
+      "Read",
+      "Edit",
+      "Glob",
+      "Grep"
+    ]
+  }
+}
